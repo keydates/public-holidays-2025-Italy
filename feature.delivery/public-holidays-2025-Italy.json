@@ -1,0 +1,82 @@
+{
+  "product": "Italy Public Holidays 2025",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-01-01T12:00:00",
+      "endDate": "2025-01-01T12:00:00",
+      "source": "Government",
+      "product": "Italy Public Holidays 2025",
+      "style": "blue",
+      "description": "Celebration of the New Year"
+    },
+    {
+      "title": "Easter Sunday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-04-12T12:00:00",
+      "endDate": "2025-04-12T12:00:00",
+      "source": "Government",
+      "product": "Italy Public Holidays 2025",
+      "style": "purple",
+      "description": "Celebration of Easter"
+    },
+    {
+      "title": "Labor Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-05-01T12:00:00",
+      "endDate": "2025-05-01T12:00:00",
+      "source": "Government",
+      "product": "Italy Public Holidays 2025",
+      "style": "green",
+      "description": "Celebration of Labor Day"
+    },
+    {
+      "title": "Republic Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-06-02T12:00:00",
+      "endDate": "2025-06-02T12:00:00",
+      "source": "Government",
+      "product": "Italy Public Holidays 2025",
+      "style": "red",
+      "description": "Celebration of Republic Day"
+    },
+    {
+      "title": "Assumption of Mary",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-08-15T12:00:00",
+      "endDate": "2025-08-15T12:00:00",
+      "source": "Government",
+      "product": "Italy Public Holidays 2025",
+      "style": "blue",
+      "description": "Celebration of the Assumption of Mary"
+    },
+    {
+      "title": "All Saints' Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-11-01T12:00:00",
+      "endDate": "2025-11-01T12:00:00",
+      "source": "Government",
+      "product": "Italy Public Holidays 2025",
+      "style": "orange",
+      "description": "Celebration of All Saints' Day"
+    },
+    {
+      "title": "Christmas Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-12-25T12:00:00",
+      "endDate": "2025-12-25T12:00:00",
+      "source": "Government",
+      "product": "Italy Public Holidays 2025",
+      "style": "red",
+      "description": "Celebration of Christmas Day"
+    }
+  ]
+}
